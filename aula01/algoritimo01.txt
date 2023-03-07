@@ -1,0 +1,4 @@
+Algoritimo "Exemplo01"
+ Escrever na tela "OLÁ MUNDO!"
+
+FimAlgoritimo
